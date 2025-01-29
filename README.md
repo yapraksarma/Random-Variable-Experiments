@@ -13,6 +13,6 @@ This repository contains Python code for conducting experiments with random vari
 
 1. Clone this repository to your local machine.
 2. Ensure you have Python installed along with the required libraries (`numpy`, `matplotlib`).
-3. Run the `experiments.py` script:
+3. Run the `variable-experiments.py` script:
    ```bash
-   python experiments.py
+   python variable-experiments.py
